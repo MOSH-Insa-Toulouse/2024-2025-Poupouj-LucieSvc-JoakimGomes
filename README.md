@@ -5,3 +5,4 @@
 1. [x] Créer le dépôt du projet
 2. [x] i'm fcking lost
 3. [x] je suis sur la branche
+4. [x] ok je crois comprendre
