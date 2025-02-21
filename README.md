@@ -2,4 +2,4 @@
 
 ## Liste des tâches pour notre projet
 
-[x] Créer 
+[x] Créer le dépôt du projet
